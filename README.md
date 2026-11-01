@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tyler Noble
 
-<!--
-**tylernobleit/tylernobleit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+U.S. Army veteran and combat engineer turned IT professional. I hold an A.S. in Information Technology (Cybersecurity concentration, High Honors, 3.94 GPA) and am finishing a B.S. in IT Management at Keiser University.
 
-Here are some ideas to get you started:
+I run **[Foxhole IT Solutions](https://foxholeitsolutions.com)**, a veteran-owned mobile IT repair and support business in Clearwater, FL, where I handle everything from device repair and data recovery to remote support and website design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Languages and web:** Python, JavaScript, React, Firebase
+- **Security:** cloud security, risk management, encryption, incident response
+- **IT support:** Windows, Microsoft Office and Google Workspace, networking, hardware repair
+
+## Projects
+- **GI Bill Tracker:** a web app that helps veterans manage education benefits, with BAH calculations, certification reminders, and expense tracking
+- **File Management System:** a Python security project with encryption, malware scanning, and machine learning features
+
+## Contact
+- Email: Tnoble7946@gmail.com
+- Website: [foxholeitsolutions.com](https://foxholeitsolutions.com)
+
+Open to remote IT and cybersecurity roles.
