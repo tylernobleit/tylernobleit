@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Noble
 
-U.S. Army combat engineer veteran and IT professional. I hold an A.S. in Information Technology (cybersecurity concentration, High Honors, 3.94 GPA) and I'm completing a B.S. in IT Management at Keiser University. I also own and run a mobile IT repair and support business.
+U.S. Army combat engineer veteran and IT professional. I hold an A.S. in Information Technology (cybersecurity concentration, High Honors, 3.94 GPA) and I'm completing a B.S. in IT Management at Keiser University. I also own and run Foxhole IT Solutions, a veteran-owned mobile IT repair and support business.
 
 I'm looking for **remote** IT support, systems administration and security-focused roles where I can combine hands-on troubleshooting with the discipline I learned leading soldiers.
 
@@ -55,3 +55,5 @@ I'm looking for **remote** IT support, systems administration and security-focus
 ## Get in touch
 
 - GitHub: [@tylernobleit](https://github.com/tylernobleit)
+- Email: [tnoble7946@gmail.com](mailto:tnoble7946@gmail.com)
+- Business: Foxhole IT Solutions, [foxholeitsolutions.com](https://foxholeitsolutions.com)
