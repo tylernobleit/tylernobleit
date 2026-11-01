@@ -49,7 +49,7 @@ I'm looking for **remote** IT support, systems administration and security-focus
 
 ## Background
 
-- **U.S. Army**, Combat Engineer, four years, separated as a Sergeant (E-5); led a team of four
+- **U.S. Army**, Combat Engineer, four years, separated as a Sergeant (E-5).
 - **Education:** A.S. Information Technology (cybersecurity), High Honors; B.S. IT Management in progress, Keiser University
 
 ## Get in touch
